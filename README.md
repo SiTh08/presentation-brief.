@@ -45,7 +45,11 @@ You should show good energy throughout your presentation.
 ## General tips on delivering a presentation
 
 Understand audience.
+
 Keep it simple (KISS - Keep it simple and stupid).
+
 Your slides are an aid, not the end product.
+
 Use notes.
+
 Use diagrams/images. Don’t use GIFs.
